@@ -1,2 +1,3 @@
 <img width="625" height="313" alt="banner-DesktopPolaroid" src="https://github.com/user-attachments/assets/58e22afc-d6a8-4e14-9e54-141e581e9892" />
 <img width="625" height="313" alt="banner-stardewhud" src="https://github.com/user-attachments/assets/00481c66-5193-456a-ab27-abc5a43fd1c7" />
+<img width="502" height="200" alt="20260128152043_491_58" src="https://github.com/user-attachments/assets/006e0903-e466-4e13-bd7f-e63a3fc26e15" />
